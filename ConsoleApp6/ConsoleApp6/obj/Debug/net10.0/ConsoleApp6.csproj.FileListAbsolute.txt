@@ -1,0 +1,14 @@
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.exe
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.deps.json
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.runtimeconfig.json
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.dll
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\bin\Debug\net10.0\ConsoleApp6.pdb
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.AssemblyInfo.cs
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.dll
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\refint\ConsoleApp6.dll
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.pdb
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ConsoleApp6.genruntimeconfig.cache
+D:\Tech Learning\C Sharp\ConsoleApp6\ConsoleApp6\obj\Debug\net10.0\ref\ConsoleApp6.dll
