@@ -34,7 +34,7 @@ This application allows users to perform basic **CRUD operations** (Create, Read
 ## Steps
 
 ```bash
-git clone https://github.com/aishsawant0202-tech/csharp-mini-projects.git
-cd csharp-mini-projects
+git clone https://github.com/aishsawant0202-tech/dev-foundations.git/
+cd ../../StudentManagement
 dotnet run
 ```
