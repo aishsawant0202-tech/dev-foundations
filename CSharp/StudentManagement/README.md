@@ -5,7 +5,7 @@ This application allows users to perform basic **CRUD operations** (Create, Read
 
 ---
 
-# Features
+## Features
 
 - Add new student
 - View all students
@@ -16,14 +16,22 @@ This application allows users to perform basic **CRUD operations** (Create, Read
 
 ---
 
+## 🛠 Tech Stack
+
+- C#
+- .NET 10
+- LINQ
+- System.Text.Json
+- Console Application
+
 # How to Run the Project
 
-# Prerequisites
+## Prerequisites
 
 - .NET SDK installed  
    https://dotnet.microsoft.com/download
 
-### Steps
+## Steps
 
 ```bash
 git clone https://github.com/aishsawant0202-tech/csharp-mini-projects.git
