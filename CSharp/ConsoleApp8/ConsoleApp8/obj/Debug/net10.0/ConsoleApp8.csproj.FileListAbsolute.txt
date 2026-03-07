@@ -1,0 +1,15 @@
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.AssemblyInfo.cs
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.sourcelink.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.exe
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.deps.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.runtimeconfig.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\bin\Debug\net10.0\ConsoleApp8.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\refint\ConsoleApp8.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ConsoleApp8.genruntimeconfig.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp8\ConsoleApp8\obj\Debug\net10.0\ref\ConsoleApp8.dll
