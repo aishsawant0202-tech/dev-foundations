@@ -1,0 +1,15 @@
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.exe
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.deps.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.runtimeconfig.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfoInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfo.cs
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.sourcelink.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\refint\ConsoleApp9.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.genruntimeconfig.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp9\ConsoleApp9\obj\Debug\net10.0\ref\ConsoleApp9.dll
