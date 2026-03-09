@@ -1,0 +1,15 @@
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\bin\Debug\net10.0\ConsoleApp13.exe
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\bin\Debug\net10.0\ConsoleApp13.deps.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\bin\Debug\net10.0\ConsoleApp13.runtimeconfig.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\bin\Debug\net10.0\ConsoleApp13.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\bin\Debug\net10.0\ConsoleApp13.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.AssemblyInfoInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.AssemblyInfo.cs
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.sourcelink.json
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\refint\ConsoleApp13.dll
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ConsoleApp13.genruntimeconfig.cache
+D:\Tech Learning\dev-foundations\dev-foundations\CSharp\ConsoleApp13\ConsoleApp13\obj\Debug\net10.0\ref\ConsoleApp13.dll
