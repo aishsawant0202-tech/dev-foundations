@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "JobAggregator.Infrastructure/1.0.0": {
+        "dependencies": {
+          "JobAggregator.Application": "1.0.0"
+        },
+        "runtime": {
+          "JobAggregator.Infrastructure.dll": {}
+        }
+      },
+      "JobAggregator.Application/1.0.0": {
+        "dependencies": {
+          "JobAggregator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "JobAggregator.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "JobAggregator.Domain/1.0.0": {
+        "runtime": {
+          "JobAggregator.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobAggregator.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobAggregator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobAggregator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

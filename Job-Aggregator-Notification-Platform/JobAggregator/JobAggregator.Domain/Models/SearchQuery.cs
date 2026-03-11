@@ -6,8 +6,8 @@ namespace JobAggregator.Domain.Models;
 
 public record SearchQuery
 {
-    public required string Keywords { get; set; }
-    public string? Location { get; set; }
-    public int MaxResults { get; set; }
-    public List<JobSource> Sources { get; set; } = new();
+    public required string Keywords { get; init; }
+    public string? Location { get; init; }
+    public int MaxResults { get; init; } = 50;
+    public List<JobSource> Sources { get; init; } = new();
 }

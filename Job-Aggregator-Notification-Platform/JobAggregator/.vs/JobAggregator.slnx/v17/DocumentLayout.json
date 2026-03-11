@@ -7,8 +7,52 @@
       "RelativeMoniker": "D:0:0:{36BABD44-0CB5-6304-7F85-021C6DBEF83F}|JobAggregator.API\\JobAggregator.API.csproj|solutionrelative:jobaggregator.api\\jobaggregator.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{36BABD44-0CB5-6304-7F85-021C6DBEF83F}|JobAggregator.API\\JobAggregator.API.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36BABD44-0CB5-6304-7F85-021C6DBEF83F}|JobAggregator.API\\JobAggregator.API.csproj|solutionrelative:jobaggregator.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.application\\services\\jobsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|solutionrelative:jobaggregator.application\\services\\jobsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.application\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|solutionrelative:jobaggregator.application\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CAE13-6128-78A1-2D13-BB2D9AB6C3DF}|JobAggregator.Infrastructure\\JobAggregator.Infrastructure.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.infrastructure\\scrapers\\linkedinscraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068CAE13-6128-78A1-2D13-BB2D9AB6C3DF}|JobAggregator.Infrastructure\\JobAggregator.Infrastructure.csproj|solutionrelative:jobaggregator.infrastructure\\scrapers\\linkedinscraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.application\\dtos\\jobsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|solutionrelative:jobaggregator.application\\dtos\\jobsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36BABD44-0CB5-6304-7F85-021C6DBEF83F}|JobAggregator.API\\JobAggregator.API.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36BABD44-0CB5-6304-7F85-021C6DBEF83F}|JobAggregator.API\\JobAggregator.API.csproj|solutionrelative:jobaggregator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CAE13-6128-78A1-2D13-BB2D9AB6C3DF}|JobAggregator.Infrastructure\\JobAggregator.Infrastructure.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.infrastructure\\scrapers\\stepstonescraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068CAE13-6128-78A1-2D13-BB2D9AB6C3DF}|JobAggregator.Infrastructure\\JobAggregator.Infrastructure.csproj|solutionrelative:jobaggregator.infrastructure\\scrapers\\stepstonescraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.application\\interfaces\\ijobscraperfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|solutionrelative:jobaggregator.application\\interfaces\\ijobscraperfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE853AB-A347-6677-6243-DF5314F342D0}|JobAggregator.Domain\\JobAggregator.Domain.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.domain\\models\\searchquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE853AB-A347-6677-6243-DF5314F342D0}|JobAggregator.Domain\\JobAggregator.Domain.csproj|solutionrelative:jobaggregator.domain\\models\\searchquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.application\\interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|solutionrelative:jobaggregator.application\\interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.application\\interfaces\\ijobscraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41053B74-BD79-777A-32B9-B4CBD89B132F}|JobAggregator.Application\\JobAggregator.Application.csproj|solutionrelative:jobaggregator.application\\interfaces\\ijobscraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068CAE13-6128-78A1-2D13-BB2D9AB6C3DF}|JobAggregator.Infrastructure\\JobAggregator.Infrastructure.csproj|d:\\tech learning\\dev-foundations\\dev-foundations\\job-aggregator-notification-platform\\jobaggregator\\jobaggregator.infrastructure\\factories\\jobscraperfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068CAE13-6128-78A1-2D13-BB2D9AB6C3DF}|JobAggregator.Infrastructure\\JobAggregator.Infrastructure.csproj|solutionrelative:jobaggregator.infrastructure\\factories\\jobscraperfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +65,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.API\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "JobAggregator.API\\Controllers\\JobsController.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.API\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "JobAggregator.API\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:12:46.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -34,20 +87,158 @@
               "RelativeToolTip": "JobAggregator.API\\JobAggregator.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-11T17:00:39.054Z",
+              "WhenOpened": "2026-03-11T20:12:02.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\DTOs\\JobDto.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Application\\DTOs\\JobDto.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\DTOs\\JobDto.cs",
+              "RelativeToolTip": "JobAggregator.Application\\DTOs\\JobDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:12:55.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "JobSearchRequest.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\DTOs\\JobSearchRequest.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Application\\DTOs\\JobSearchRequest.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\DTOs\\JobSearchRequest.cs",
+              "RelativeToolTip": "JobAggregator.Application\\DTOs\\JobSearchRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:03:14.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJobScraperFactory.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Interfaces\\IJobScraperFactory.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Application\\Interfaces\\IJobScraperFactory.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Interfaces\\IJobScraperFactory.cs",
+              "RelativeToolTip": "JobAggregator.Application\\Interfaces\\IJobScraperFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:40:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkedInScraperService.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Infrastructure\\Scrapers\\LinkedInScraperService.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Infrastructure\\Scrapers\\LinkedInScraperService.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Infrastructure\\Scrapers\\LinkedInScraperService.cs",
+              "RelativeToolTip": "JobAggregator.Infrastructure\\Scrapers\\LinkedInScraperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:38:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobSearchService.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Services\\JobSearchService.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Application\\Services\\JobSearchService.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Services\\JobSearchService.cs",
+              "RelativeToolTip": "JobAggregator.Application\\Services\\JobSearchService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:40:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StepStoneScraperService.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Infrastructure\\Scrapers\\StepStoneScraperService.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Infrastructure\\Scrapers\\StepStoneScraperService.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Infrastructure\\Scrapers\\StepStoneScraperService.cs",
+              "RelativeToolTip": "JobAggregator.Infrastructure\\Scrapers\\StepStoneScraperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:38:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.API\\Program.cs",
               "RelativeDocumentMoniker": "JobAggregator.API\\Program.cs",
               "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.API\\Program.cs",
               "RelativeToolTip": "JobAggregator.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T17:00:36.757Z",
+              "WhenOpened": "2026-03-11T17:55:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchQuery.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Domain\\Models\\SearchQuery.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Domain\\Models\\SearchQuery.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Domain\\Models\\SearchQuery.cs",
+              "RelativeToolTip": "JobAggregator.Domain\\Models\\SearchQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:41:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJobScraperService.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Interfaces\\IJobScraperService.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Application\\Interfaces\\IJobScraperService.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Interfaces\\IJobScraperService.cs",
+              "RelativeToolTip": "JobAggregator.Application\\Interfaces\\IJobScraperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:37:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Interfaces\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Application\\Interfaces\\IJobRepository.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Application\\Interfaces\\IJobRepository.cs",
+              "RelativeToolTip": "JobAggregator.Application\\Interfaces\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:37:27.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobScraperFactory.cs",
+              "DocumentMoniker": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Infrastructure\\Factories\\JobScraperFactory.cs",
+              "RelativeDocumentMoniker": "JobAggregator.Infrastructure\\Factories\\JobScraperFactory.cs",
+              "ToolTip": "D:\\Tech Learning\\dev-foundations\\dev-foundations\\Job-Aggregator-Notification-Platform\\JobAggregator\\JobAggregator.Infrastructure\\Factories\\JobScraperFactory.cs",
+              "RelativeToolTip": "JobAggregator.Infrastructure\\Factories\\JobScraperFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:57:16.948Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,12 @@
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\bin\Debug\net10.0\JobAggregator.Domain.deps.json
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\bin\Debug\net10.0\JobAggregator.Domain.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\bin\Debug\net10.0\JobAggregator.Domain.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.AssemblyInfoInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.AssemblyInfo.cs
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.csproj.CoreCompileInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.sourcelink.json
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\refint\JobAggregator.Domain.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\JobAggregator.Domain.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Domain\obj\Debug\net10.0\ref\JobAggregator.Domain.dll

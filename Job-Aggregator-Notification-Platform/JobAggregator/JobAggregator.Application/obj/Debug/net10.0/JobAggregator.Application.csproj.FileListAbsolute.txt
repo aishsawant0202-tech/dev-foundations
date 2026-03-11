@@ -1,0 +1,16 @@
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.csproj.AssemblyReference.cache
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.AssemblyInfoInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.AssemblyInfo.cs
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.csproj.CoreCompileInputs.cache
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.sourcelink.json
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\bin\Debug\net10.0\JobAggregator.Application.deps.json
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\bin\Debug\net10.0\JobAggregator.Application.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\bin\Debug\net10.0\JobAggregator.Application.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\bin\Debug\net10.0\JobAggregator.Domain.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\bin\Debug\net10.0\JobAggregator.Domain.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggre.AA304A55.Up2Date
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\refint\JobAggregator.Application.dll
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\JobAggregator.Application.pdb
+D:\Tech Learning\dev-foundations\dev-foundations\Job-Aggregator-Notification-Platform\JobAggregator\JobAggregator.Application\obj\Debug\net10.0\ref\JobAggregator.Application.dll

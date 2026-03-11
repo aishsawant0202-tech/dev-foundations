@@ -1,12 +1,25 @@
-using JobAggregator.Application.Interfaces;
-
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<IJobScrapperService, LinkedInScrapperService>();
-builder.Services.AddTransient<IJobScrapperService, StepStoneScrapperService>();
+// ?? Uncomment each line as we build the classes ??
+// builder.Services.AddTransient<IJobScraperService, LinkedInScraperService>();
+// builder.Services.AddTransient<IJobScraperService, StepStoneScraperService>();
+// builder.Services.AddScoped<IJobRepository, JobRepository>();
+// builder.Services.AddMemoryCache();
+// builder.Services.AddSingleton<IJobScraperFactory, JobScraperFactory>();
 
-builder.Services.AddScoped<IJobRepository, JobRepository>();
+var app = builder.Build();
 
-builder.Services.AddMemoryCache();
-builder.Services.AddSingleton<IJobScrapperFactory, JobScrapperFactory>();
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+app.UseAuthorization();
+app.MapControllers();
+app.Run();
