@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="JobAggregator.API/JobAggregator.API.csproj" />
+  <Project Path="JobAggregator.Application/JobAggregator.Application.csproj" />
+  <Project Path="JobAggregator.Domain/JobAggregator.Domain.csproj" />
+  <Project Path="JobAggregator.Infrastructure/JobAggregator.Infrastructure.csproj" />
+  <Project Path="JobAggregator.Tests/JobAggregator.Tests.csproj" />
+</Solution>
