@@ -489,3 +489,6 @@ prisma/generated/
 
 # Skills tooling
 skills-lock.json
+
+prisma/*.db
+prisma/*.db-journal    # also ignore SQLite's temp journal file
