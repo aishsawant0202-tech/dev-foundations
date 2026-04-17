@@ -2,8 +2,9 @@
 
 namespace HelloApp.Controllers;
 
-[ApiController]
-[Route("[controller]")]
+[ApiController]  ///switches the controller into API mode: auto-validates requests, auto-binds request body, enforces attribute routing, and returns structured JSON errors.
+[Route("[controller]")] ///sets the URL prefix for the controller by reading the class name, so you never hardcode it.
+
 public class HelloController : ControllerBase
 {
     private readonly IConfiguration _config;

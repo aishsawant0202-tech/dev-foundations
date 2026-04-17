@@ -1,0 +1,37 @@
+### Get all products
+GET http://localhost:5000/api/products
+
+### Get product by id (exists)
+GET http://localhost:5000/api/products/1
+
+### Get product by id (does NOT exist — expect 404)
+GET http://localhost:5000/api/products/999
+
+### Get with string id (expect 404 — constraint blocks it)
+GET http://localhost:5000/api/products/abc
+
+### Create a product
+POST http://localhost:5000/api/products
+Content-Type: application/json
+
+{
+  "name": "Mechanical Keyboard",
+  "price": 129.99,
+  "category": "Electronics"
+}
+
+### Update a product
+PUT http://localhost:5000/api/products/1
+Content-Type: application/json
+
+{
+  "name": "Gaming Laptop",
+  "price": 1299.99,
+  "category": "Electronics"
+}
+
+### Delete a product
+DELETE http://localhost:5000/api/products/2
+
+### Try deleting again (expect 404)
+DELETE http://localhost:5000/api/products/2# For more info on HTTP files go to https://aka.ms/vs/httpfile
