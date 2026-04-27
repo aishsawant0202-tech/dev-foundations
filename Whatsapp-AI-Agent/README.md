@@ -2,8 +2,8 @@
 
 Turn your own WhatsApp number into a personal AI assistant. No prefix. No commands. Just talk to it like a person and it figures out what you need.
 
-> Built by [@AishwaryaSawant](https://github.com/aishsawant0202-tech/dev-foundations) · Master's student, Frankfurt UAS 🇩🇪  
-> _Still exploring and improving this — PRs and suggestions welcome!_
+> Built by AishwaryaSawant · Master's student, Frankfurt UAS 🇩🇪  
+> _Still exploring and improving this. PRs and suggestions welcome!_
 
 ---
 
