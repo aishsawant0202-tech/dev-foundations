@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Documentation/">
+    <File Path="../Documentation/paper.pdf" />
+    <File Path="../Documentation/Project-Overview.docx" />
+  </Folder>
+  <Project Path="../ReminderAgent_Test/ReminderAgent_Test.csproj" />
+  <Project Path="ReminderAgent/ReminderAgent.csproj" />
+</Solution>
