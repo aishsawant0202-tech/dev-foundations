@@ -37,6 +37,13 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+../.vscode/
+.vscode/
+MCP/.vscode/settings.json
+Whatsapp-AI-Agent/.vscode/
+selenium-pom-framework/.vscode/
+email-agent/.vscode/
+Python/.venv/Scripts/python.exe
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
@@ -492,3 +499,13 @@ skills-lock.json
 
 prisma/*.db
 prisma/*.db-journal    # also ignore SQLite's temp journal file
+
+#email agent folder 
+email-agent/credentials.json
+email-agent/token.json
+email-agent/.env
+
+# python site packages and scripts
+Python/webserver/Lib/site-packages/
+Python/webserver/Scripts/
+Python/webserver/pyvenv.cfg
