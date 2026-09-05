@@ -1,0 +1,35 @@
+UPCOMING HACKATHONS IN EUROPE
+=============================
+
+1. CASSINI Hackathons
+   Description: Pan-European competitions focused on EU space data (Galileo, Copernicus) held simultaneously across multiple countries.
+   Type: In-person / Distributed across Europe
+   Focus: Space data, Earth observation
+
+2. EUDIS Hackathon (EU Defence Innovation Scheme)
+   Description: EU Defence Innovation Scheme events focusing on defense and space applications.
+   Type: In-person / Virtual
+   Focus: Defense technology, Space applications
+
+3. Pan-European Quantum Internet Hackathon
+   Description: Organized by the Quantum Internet Alliance across nodes in cities like Amsterdam, Dresden, Paris, and Poznań.
+   Type: In-person / Distributed
+   Focus: Quantum computing, Quantum internet
+
+4. BioHackathon Europe
+   Description: Annual gathering hosted by ELIXIR focused on open science and bioinformatics.
+   Type: In-person / Annual event
+   Focus: Bioinformatics, Open science, Life sciences
+
+5. European Big Data Hackathon 2025
+   Description: Foster expertise in integrating Earth Observation data and big data analytics.
+   Type: In-person / Distributed
+   Focus: Big data, Earth observation, Data science
+
+=============================
+Note: For the most current and complete list of upcoming European hackathons, visit:
+- Hackathon Hub: https://www.hackathon.com/
+- Open Hackathons schedule
+- Devpost.com (hackathons section)
+
+Last Updated: 2026-08-31

@@ -1,0 +1,36 @@
+# Local Models Configuration for Continue
+# This file defines locally-running models that Continue can use
+
+models:
+  # Ollama models - requires Ollama to be running on localhost:11434
+  # Available models: llama2, mistral, neural-chat, orca-mini, etc.
+  - name: "Ollama Mistral"
+    provider: "ollama"
+    model: "mistral"
+    apiBase: "http://localhost:11434"
+    contextLength: 4096
+    
+  - name: "Ollama Llama 2"
+    provider: "ollama"
+    model: "llama2"
+    apiBase: "http://localhost:11434"
+    contextLength: 4096
+    
+  # LM Studio models - requires LM Studio running on localhost:1234
+  - name: "LM Studio Model"
+    provider: "lmstudio"
+    apiBase: "http://localhost:1234"
+    contextLength: 4096
+
+  # GPT4All models - requires GPT4All running
+  - name: "GPT4All Local"
+    provider: "gpt4all"
+    model: "mistral-7b"
+    contextLength: 4096
+
+# Configuration notes:
+# 1. Ollama: Download from https://ollama.ai - pulls models automatically
+# 2. LM Studio: Download from https://lmstudio.ai - local GUI model manager
+# 3. GPT4All: Download from https://gpt4all.io - easy model management
+# 4. Adjust contextLength based on your model and available memory
+# 5. Update provider URLs if running on different addresses

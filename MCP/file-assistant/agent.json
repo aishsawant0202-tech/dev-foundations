@@ -1,0 +1,14 @@
+{
+  "model": "mistral",
+  "endpointUrl": "http://localhost:11434/api/",
+  "servers": [
+    {
+      "type": "stdio",
+      "command": "C:\\Program Files\\nodejs\\npx.cmd",
+      "args": [
+        "-y",
+        "@wonderwhy-er/desktop-commander"
+      ]
+    }
+  ]
+}

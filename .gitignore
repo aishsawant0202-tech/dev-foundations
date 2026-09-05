@@ -509,3 +509,9 @@ email-agent/.env
 Python/webserver/Lib/site-packages/
 Python/webserver/Scripts/
 Python/webserver/pyvenv.cfg
+
+# Python virtual environments (any location)
+venv/
+.venv/
+env/
+ENV/
