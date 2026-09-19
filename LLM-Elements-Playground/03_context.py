@@ -46,15 +46,25 @@ def prepare_messages_for_summary(messages_to_summarize):
     return summary_text
 
 
-def summarize_messages(summary_text):
-    prompt = (
-        "Summarize the following conversation very briefly.\n"
-        "Keep only important facts needed for future conversation.\n"
-        "Do not include headings, bullet points, greetings, "
-        "or explanations.\n"
-        "Use at most 2 short sentences.\n\n"
-        f"Conversation:\n{summary_text}"
-    )
+def summarize_messages(summary_text, conversation_summary=None):
+
+    if conversation_summary:
+        prompt = (
+            "Update the conversation summary using the new messages.\n"
+            "Keep only important facts needed for future conversation.\n"
+            "Do not include headings, bullet points, greetings, or explanations.\n "
+            f"Previous summary:\n{conversation_summary}\n\n"
+            f"New messages:\n{summary_text}")
+
+    else:
+        prompt = (
+            "Summarize the following conversation very briefly.\n"
+            "Keep only important facts needed for future conversation.\n"
+            "Do not include headings, bullet points, greetings, "
+            "or explanations.\n"
+            "Use at most 2 short sentences.\n\n"
+            f"Conversation:\n{summary_text}"
+        )
 
     response = chat(
         model="qwen3:0.6b",
@@ -98,7 +108,8 @@ def truncate_to_token_budget(text, token_budget):
 def build_context(
     messages,
     max_context_tokens,
-    summary_token_budget
+    summary_token_budget,
+    conversation_summary=None
 ):
     system_message = messages[0]
     current_message = messages[-1]
@@ -110,7 +121,7 @@ def build_context(
     total_tokens = sum(count_message_tokens(message) for message in messages)
 
     if total_tokens <= max_context_tokens:
-        return messages, []
+        return messages, [], conversation_summary
 
     # --------------------------------
     # 2. Reserve required token space
@@ -161,7 +172,7 @@ def build_context(
 
         summary_text = prepare_messages_for_summary(messages_to_summarize)
 
-        summary = summarize_messages(summary_text)
+        summary = summarize_messages(summary_text, conversation_summary)
 
         summary_message = {
             "role": "system",
@@ -212,7 +223,9 @@ def build_context(
 
     context.append(current_message)
 
-    return context, messages_to_summarize
+    conversation_summary = summary
+
+    return context, messages_to_summarize, conversation_summary
 
 # ====================================
 # Main
@@ -227,15 +240,38 @@ total_token_count = sum(
 print("Total tokens:", total_token_count)
 
 max_context_tokens = 80
-summary_token_budget = 20
+summary_token_budget = 25
 
 print("Context limit:", max_context_tokens)
 print("Summary token budget:", summary_token_budget)
 
-context, messages_to_summarize = build_context(
+context, messages_to_summarize, conversation_summary = build_context(
     messages,
     max_context_tokens,
-    summary_token_budget
+    summary_token_budget,
+    conversation_summary=None
+)
+
+print("\nConversation summary:")
+print(conversation_summary)
+
+print("\n--- SECOND TURN ---")
+
+messages.append({
+    "role": "assistant",
+    "content": "A dictionary stores values using keys."
+})
+
+messages.append({
+    "role": "user",
+    "content": "Can you show me how to add a new key?"
+})
+
+context, messages_to_summarize, conversation_summary = build_context(
+    messages,
+    max_context_tokens,
+    summary_token_budget,
+    conversation_summary
 )
 
 tokens_used = sum(count_message_tokens(message) for message in context)
@@ -251,3 +287,6 @@ print("\nMessages summarized:")
 
 for message in messages_to_summarize:
     print(f"{message['role']}: "f"{message['content']}")
+
+print("\nConversation summary:")
+print(conversation_summary)
