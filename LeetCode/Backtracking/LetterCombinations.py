@@ -26,7 +26,11 @@ def letterCombinations(digits):
         letters = phone[digits[index]]
 
         for letter in letters:
+            print(len(result))
             build(index + 1, current + letter)
 
     build(0, "")
     return result
+
+
+letterCombinations(digits)
