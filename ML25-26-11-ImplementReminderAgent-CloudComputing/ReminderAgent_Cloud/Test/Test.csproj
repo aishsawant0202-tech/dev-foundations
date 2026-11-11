@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Core" Version="1.61.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.29.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.3.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="10.0.11" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="10.0.11" />
+    <PackageReference Include="ModelContextProtocol" Version="2.1.0" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="MSTest" Version="4.0.2" />
+    <PackageReference Include="MSTest.TestAdapter" Version="4.0.2" />
+    <PackageReference Include="MSTest.TestFramework" Version="4.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReminderAgent.Common\ReminderAgent.Common.csproj" />
+    <ProjectReference Include="..\ReminderAgent.Infrastructure\ReminderAgent.Infrastructure.csproj" />
+    <!-- Real MCP server host for McpServer_Protocol_Tests — WebApplicationFactory<Program>
+         boots the actual ReminderAgent.McpServer app (real Azure SQL/Blob/Queue/Table, real OpenAI
+         embeddings) and a real MCP client talks to it over the real /mcp Streamable HTTP endpoint. -->
+    <ProjectReference Include="..\ReminderAgent.McpServer\ReminderAgent.McpServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
+  </ItemGroup>
+
+   <ItemGroup>
+	  <None Include="..\ReminderAgent.Cloud\appsettings.dev.json" Link="appsettings.dev.json" CopyToOutputDirectory="PreserveNewest" Condition="Exists('..\ReminderAgent.Cloud\appsettings.dev.json')" />
+	</ItemGroup>
+
+   <ItemGroup>
+     <None Update="appsettings.json">
+       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+     </None>
+   </ItemGroup>
+
+   <ItemGroup>
+     <!-- MCP13_CallBulkUploadAssets_OverRealMcp_UploadsBlobAndQueuesRealJob reads this via
+          Path.Combine(AppContext.BaseDirectory, "SampleFiles", "bulk-upload-sample.csv") -->
+     <None Include="..\SampleFiles\bulk-upload-sample.csv" Link="SampleFiles\bulk-upload-sample.csv" CopyToOutputDirectory="PreserveNewest" />
+   </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/.vs/
+
+# Local secrets / environment-specific settings — never bake into an image
+**/appsettings.dev.json
+**/appsettings.Development.json
+
+# Local-dev-only console REPL project — not part of the McpServer container
+ReminderAgent.Cloud/
+
+# Test project(s) — dev-time only, not part of the runtime image
+Test/
+**/TestResults/
+
+# VCS / IDE clutter
+.git/
+**/*.user
+**/*.suo

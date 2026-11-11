@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ReminderAgent.Cloud/ReminderAgent.Cloud.csproj" />
+  <Project Path="ReminderAgent.Common/ReminderAgent.Common.csproj" />
+  <Project Path="ReminderAgent.Infrastructure/ReminderAgent.Infrastructure.csproj" />
+  <Project Path="ReminderAgent.McpServer/ReminderAgent.McpServer.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>

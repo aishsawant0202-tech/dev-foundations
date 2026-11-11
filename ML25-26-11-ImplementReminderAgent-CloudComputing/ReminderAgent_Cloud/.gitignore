@@ -1,0 +1,4 @@
+ReminderAgent.Cloud/Properties
+ReminderAgent.Cloud/appsettings.dev.json
+ReminderAgent.McpServer/appsettings.dev.json
+ReminderAgent.McpServer/Properties/launchSettings.json

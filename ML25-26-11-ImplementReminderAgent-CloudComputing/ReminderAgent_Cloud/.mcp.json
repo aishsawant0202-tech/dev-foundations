@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "reminderagent": {
+      "url": "https://reminderagent-cta7e8fegycye8gh.northeurope-01.azurewebsites.net/mcp"
+    }
+  }
+}
