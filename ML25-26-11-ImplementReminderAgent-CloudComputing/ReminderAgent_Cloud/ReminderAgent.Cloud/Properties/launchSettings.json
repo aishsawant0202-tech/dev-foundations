@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReminderAgent.Cloud": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "dev"
+      }
+    }
+  }
+}

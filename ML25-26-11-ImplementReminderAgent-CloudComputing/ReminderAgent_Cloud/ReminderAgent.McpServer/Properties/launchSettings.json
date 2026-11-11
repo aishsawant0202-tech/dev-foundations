@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ReminderAgent.McpServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53100;http://localhost:53101"
+    }
+  }
+}

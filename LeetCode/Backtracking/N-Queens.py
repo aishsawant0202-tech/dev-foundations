@@ -4,10 +4,10 @@ def solveNQueens(n):
     used = [False] * n
     diag1 = set()
     diag2 = set()
-    board = []
 
     def backtrack(row):
         if row == n:
+            board = []
             for col in path:
                 board.append("." * col + "Q" + "." * (n-col-1))
             result.append(board)
